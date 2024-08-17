@@ -15,3 +15,9 @@
 
 <h6>6. Fitness - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Fitness/
 ">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Fitness">Repository Link</a> - [ Mobile Responsive ] </h6> 
+
+
+## Tailwind CSS Projects_
+
+<h6>7. Penguin Fashion - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Penguin-Fashion/
+">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Penguin-Fashion">Repository Link</a> - [ Responsive ] </h6>
