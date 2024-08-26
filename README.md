@@ -18,11 +18,13 @@
 ## Tailwind CSS Projects_
 
 <h6>6. Penguin Fashion - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Penguin-Fashion/
-">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Penguin-Fashion">Repository Link</a> - [ Responsive ] </h6>
+">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Penguin-Fashion">Repository Link</a> - [ Responsive ] (75% Done)</h6>
 
-<h6>7. Tea House - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Tea-House/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Tea-House">Repository Link</a> </h6>
+<h6>7. Tea House - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Tea-House/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Tea-House">Repository Link</a> (40% Done)</h6> 
 
 
 ## Tailwind & Daisy UI Projects_
 
 <h6>8. Biker Zone - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Biker-Zone/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Biker-Zone">Repository Link</a> - [ Responsive ]</h6> 
+
+<h6>9. Rinterio - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Rinterio/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Rinterio">Repository Link</a> - [ Responsive ]</h6> 
