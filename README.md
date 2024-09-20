@@ -28,3 +28,7 @@
 <h6>8. Biker Zone - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Biker-Zone/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Biker-Zone">Repository Link</a> - [ Responsive ]</h6> 
 
 <h6>9. Rinterio - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Rinterio/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Rinterio">Repository Link</a> - [ Responsive ]</h6> 
+
+
+## Javascript Projects_
+<h6>10. Payoo MFS- <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Payoo-MFS/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Payoo-MFS">Repository Link</a> - [ Web App ]</h6> 
