@@ -31,6 +31,6 @@
 
 
 ## Javascript Projects_
-<h6>10. Payoo MFS- <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Payoo-MFS/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Payoo-MFS">Repository Link</a> - [ View Only Phone ]</h6> 
+<h6>10. Payoo - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Payoo/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Payoo">Repository Link</a> - [ View Only Phone ]</h6> 
 
 <h6>11. E Bus Ticket- <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/E-Bus-Ticket/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/E-Bus-Ticket">Repository Link</a> - [ Responsive ]</h6> 
