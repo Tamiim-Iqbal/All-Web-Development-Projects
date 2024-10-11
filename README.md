@@ -38,9 +38,9 @@
 <h6>12. Donate Bangladesh - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Donate-Bangladesh/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Donate-Bangladesh">Repository Link</a> - [ Responsive ]</h6> 
 
 ## API Integration Projects_
-<h6>13. PH Tube - <a style="text-decoration:none" href="https://w-ph-tube.vercel.app/">Live Site</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/PH-Tube">Repository Link</a> - [ Responsive ]</h6> 
+<h6>13. PH Tube - <a style="text-decoration:none" href="https://w-ph-tube.vercel.app">Live Site</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/PH-Tube">Repository Link</a> - [ Responsive ]</h6> 
 
-<h6>14. Peddy - <a style="text-decoration:none" href="https://peddy.vercel.app/">Live Site</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Peddy">Repository Link</a> - [ Responsive ]</h6> 
+<h6>14. Peddy - <a style="text-decoration:none" href="https://peddy.vercel.app">Live Site</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Peddy">Repository Link</a> - [ Responsive ]</h6> 
 
 
 ## React Projects_
