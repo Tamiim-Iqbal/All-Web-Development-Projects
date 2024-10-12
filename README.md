@@ -43,4 +43,4 @@
 <h6>14. Peddy - <a style="text-decoration:none" href="https://peddy.vercel.app">Live Site</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Peddy">Repository Link</a> - [ Responsive ]</h6> 
 
 
-## React Projects_
+## React.Js Projects_
